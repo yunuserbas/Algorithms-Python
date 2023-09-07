@@ -1,3 +1,3 @@
 # Algorithms-Python
 
-Python entry, intermediate, and advanced level QA.
+Python entry, intermediate, and advanced level Q&A.
